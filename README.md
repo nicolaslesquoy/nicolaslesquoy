@@ -3,7 +3,6 @@
 <br>
 
 ## About me
----
 - I am a student at ISAE-Supaero in Toulouse, France
 - Currently expanding my knowledge in `C` and `Python` programming languages
 - `TeX/LaTeX` Enthousiast
@@ -11,14 +10,12 @@
 <!--This is [MY RESUME](https://drive.google.com/file/d/1ZjqmhLQk-unK32Uw2GVCB5iE2k_-pwBc/view?usp=sharing) (written in French).-->
 
 ## Streak Stats
----
 <br>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaslesquoy&theme=onedark" alt="nicolaslesquoy" /></p>
 
 
 ## Contact & Skills
----
 
 ## **My Skills**
 
@@ -81,7 +78,6 @@
 </p>
 
 ## **Github Stats**
----
 <br>
 
   <p align="center">
