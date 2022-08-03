@@ -1,0 +1,63 @@
+% DemoBristol.tex
+\documentclass[12pt]{bristol}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lipsum}
+\begin{document}
+% Titlepage
+\myTitlepage{Démonstration}{Utilisation de \texttt{bristol.cls}}{Nicolas LESQUOY}{\textsc{ISAE-Supaero}}{gray!25!white}
+% ############################################
+% BOXES
+% ############################################
+\section{Théorème}
+\label{sec:thm}
+\begin{thmbox}{Un théorème}
+\lipsum[1][1-2]
+\end{thmbox}
+%####################################################
+\section{Définition}
+\begin{defbox}{Une définition}
+\lipsum[1][1-2]
+\end{defbox}
+%####################################################
+\section{Proposition}
+\begin{prpbox}{Une proposition}
+\lipsum[1][1-2]
+\end{prpbox}
+%####################################################
+\section{Lemme}
+\begin{lembox}{Un lemme}
+\lipsum[1][1-2]
+\end{lembox}
+%####################################################
+\section{Corollaire}
+\begin{corbox}{Un corollaire}
+\lipsum[1][1-2]
+\end{corbox}
+%####################################################
+\section{Méthode}
+\begin{mtdbox}{Une méthode}
+\lipsum[1][1-2]
+\end{mtdbox}
+%####################################################
+\section{\'Equation}
+\newequation{Une démonstration}{
+	\begin{equation}
+		\frac{dx}{dt} = v
+	\end{equation}
+}{\begin{itemize}
+\item x = position
+\end{itemize}
+}
+% ############################################
+% Buttons
+% ############################################
+\section{Boutons \& Hyperliens}
+\begin{itemize}
+\item \verb|\beamerbutton{<ref>}|~\faChevronRight~\beamerbutton{\ref{sec:thm}}
+\item \verb|\beamergotobutton{<ref>}|~\faChevronRight~\beamergotobutton{\ref{sec:thm}}
+\item \verb|\beamerskipbutton{<ref>}|~\faChevronRight~\beamerskipbutton{\ref{sec:thm}}
+\item \verb|\beamerreturnbutton{<ref>}|~\faChevronRight~\beamerreturnbutton{\ref{sec:thm}}
+\end{itemize}
+%####################################################
+\end{document}

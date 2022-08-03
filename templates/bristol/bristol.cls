@@ -229,7 +229,7 @@ title=\'Equation \thesection(\romannumeral\themyeq) $\blacktriangleright$ {#1}\s
 % end
 
 \colorlet{button}{buttoncolor}
-\colorlet{button border}{buttoncolor}
+\colorlet{button border}{black}
 
 \makeatletter
 \newbox\beamer@tempbox
