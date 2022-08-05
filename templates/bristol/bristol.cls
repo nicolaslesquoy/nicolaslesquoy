@@ -8,7 +8,7 @@
 % IDENTIFICATION
 % #################################################
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{bristol}[2021/12/29 V1 Cheatsheet Class]
+\ProvidesClass{bristol}[2022/08/04 V2 Cheatsheet Class]
 % #################################################
 % CLASS CONSTRUCTION
 % #################################################
