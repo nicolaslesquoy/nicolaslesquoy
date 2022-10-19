@@ -14,9 +14,6 @@
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaslesquoy&theme=onedark" alt="nicolaslesquoy" /></p>
 
-
-## Contact & Skills
-
 ## **My Skills**
 
 - *Programming languages*
