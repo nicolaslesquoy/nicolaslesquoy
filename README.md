@@ -4,8 +4,6 @@
 
 ## About me
 - I am a student at ISAE-Supaero in Toulouse, France
-- Currently expanding my knowledge in `C` and `Python` programming languages
-- `TeX/LaTeX` Enthousiast
 <br>
 <!--This is [MY RESUME](https://drive.google.com/file/d/1ZjqmhLQk-unK32Uw2GVCB5iE2k_-pwBc/view?usp=sharing) (written in French).-->
 
