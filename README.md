@@ -1,16 +1,22 @@
 <h1 align="center">Hi , I'm Nicolas LESQUOY !</h1>
-<p align="center"><a href="mailto:nicolas.lesquoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolaslesquoy/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
+<p align="center"><a href="mailto:nicolas.lesquoy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolas-lesquoy-599737218/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://stackoverflow.com/users/16585917/elyo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a></p>
 <br>
 
 ## About me
-- I am a student at ISAE-Supaero in Toulouse, France
-<br>
-<!--This is [MY RESUME](https://drive.google.com/file/d/1ZjqmhLQk-unK32Uw2GVCB5iE2k_-pwBc/view?usp=sharing) (written in French).-->
 
-## Streak Stats
-<br>
+- I am a student at **ISAE-SUPAERO** in *Toulouse, France*
+- I study aeronautical engineering, more specifically aircraft propulsion.
+
+## GitHub stats
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaslesquoy&theme=onedark" alt="nicolaslesquoy" /></p>
+
+<br>
+  <p align="center">
+    <a href="https://github.com/nicolaslesquoy/github-readme-stats"><img alt="Nicolas LESQUOY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolaslesquoy&show_icons=true&count_private=true&theme=onedark" height="192px"/></a>
+  </p>
+
+<br/>
 
 ## **My Skills**
 
@@ -44,9 +50,7 @@
  
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>	 
 </p>
 <br/>
 
@@ -56,26 +60,7 @@
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/></a>	
-    <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label="></a>
-    <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
-
-- *IDEs & Text Editors*
-<p align="center">
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
-</p>
-
-
-## **Github Stats**
-<br>
-
-  <p align="center">
-    <a href="https://github.com/nicolaslesquoy/github-readme-stats"><img alt="Nicolas LESQUOY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolaslesquoy&show_icons=true&count_private=true&theme=onedark" height="192px"/></a>
-    <br>
-    <b> GitHub Profile Stats</b>
-    </br>
-  </p>
-
-<br/>
