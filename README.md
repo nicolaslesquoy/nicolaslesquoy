@@ -1,6 +1,4 @@
-<h1 align="center">Hi , I'm Nicolas LESQUOY !</h1>
-</a> <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolas-lesquoy-599737218/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://stackoverflow.com/users/16585917/elyo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a></p>
-<br>
+<h1>Hi , I'm Nicolas LESQUOY ! <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolas-lesquoy-599737218/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://stackoverflow.com/users/16585917/elyo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a></h1>
 
 ## About me
 
