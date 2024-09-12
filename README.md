@@ -26,7 +26,7 @@
     <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
+<!--     <a href="#"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a> -->
 </p>
 
 - *Software & Tools*
