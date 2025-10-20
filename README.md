@@ -2,9 +2,8 @@
 
 ## About me
 
-- I am a student at **ISAE-SUPAERO** in *Toulouse, France*
-- I study aeronautical engineering, more specifically aircraft propulsion.
-- I want to learn more about **OS development**, **high-performance cluster computing** and **computational fluid dynamics**.
+- I am a PhD student in France
+- I am interested in **Game Development**, **High-performance Computing (HPC)** and **Computational Fluid Dynamics (CFD)**
 
 ## My Skills
 
