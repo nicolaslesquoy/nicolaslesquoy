@@ -1,12 +1,12 @@
-<h1>Hi , I'm Nicolas LESQUOY ! <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolas-lesquoy-599737218/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://stackoverflow.com/users/16585917/elyo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a></h1>
+<h1>Hi , I'm Nicolas LESQUOY ! <a href="https://github.com/nicolaslesquoy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/nicolas-lesquoy-599737218/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></a></h1>
 
-## **About me**
+## About me
 
 - I am a student at **ISAE-SUPAERO** in *Toulouse, France*
 - I study aeronautical engineering, more specifically aircraft propulsion.
 - I want to learn more about **OS development**, **high-performance cluster computing** and **computational fluid dynamics**.
 
-## **My Skills**
+## My Skills
 
 - *Programming languages*
 
@@ -24,7 +24,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Subverion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Subversion&color=809CC9&logo=Subversion&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Subversion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Subversion&color=809CC9&logo=Subversion&logoColor=FFFFFF&label="></a>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
 </p>
 
