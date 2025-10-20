@@ -25,6 +25,7 @@
     <a href="#"><img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Subversion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Subversion&color=809CC9&logo=Subversion&logoColor=FFFFFF&label="></a>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/Matlab-D97757?style=for-the-badge"></a>
 </p>
 
 - *IDEs & Text Editors*
